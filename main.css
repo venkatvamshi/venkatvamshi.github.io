@@ -82,7 +82,7 @@ span {
 }
 
 .separator_line{
-    border: 1px solid var(--dark-grey);
+    border-top: 1px solid var(--dark-grey);
     width: 100%;
     margin-top: 60px;
 }
