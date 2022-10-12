@@ -60,7 +60,7 @@ Youtube vidoes from kevin powell and coder coder helped me in organising css.
 
 ## Author
 
-- Website - [vamshi dondapati](https://github.com/venkatvamshi/venkatvamshi.github.io)
+- Website - [vamshi dondapati](https://venkatvamshi.github.io/)
 - Frontend Mentor - [@venkatvamshi](https://www.frontendmentor.io/profile/venkatvamshi)
 - LinkedIn - [@vamshi-dondapati-a1b891a3](https://www.linkedin.com/in/vamshi-dondapati-a1b891a3)
 
